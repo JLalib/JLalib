@@ -1,7 +1,19 @@
 ### Hi there 👋
 My name is Bilal, I'm from Spain.
+
 🌱 I’m currently learning everything.
+
 :vhs: https://www.youtube.com/@BilalJebari
+
+💬 bilaljebari@proton.me
+
+💻 Blog: https://bilaljebari.blogspot.com/
+
+🐦Twitter: https://twitter.com/bilal_jebari
+
+
+☕ https://ko-fi.com/bilaljebari
+
 <!--
 **JLalib/JLalib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
