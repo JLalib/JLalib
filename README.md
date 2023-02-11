@@ -2,7 +2,9 @@
 My name is Bilal, I'm from Spain.
 
 🌱 I’m currently learning everything.
+
 :vhs: https://www.youtube.com/@BilalJebari
+
 💬 bilaljebari@proton.me
 
 💻 Blog: https://bilaljebari.blogspot.com/
