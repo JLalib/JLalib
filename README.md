@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bilal, I'm from Spain.
+How's it going?. My name is Bilal, I'm from Spain.
 
 🌱 I’m currently learning everything.
 
