@@ -3,7 +3,7 @@ How's it going?. My name is Bilal, I'm from Spain.
 
 🌱 I’m currently learning everything.
 
-:vhs: https://www.youtube.com/@MicroByteIT
+:vhs: https://www.youtube.com/@genbyte
 
 💬 bilaljebari@proton.me
 
