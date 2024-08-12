@@ -7,9 +7,9 @@ How's it going?. My name is Bilal, I'm from Spain.
 
 💬 bilaljebari@proton.me
 
-💻 Blog: https://bilaljebari.blogspot.com/
+💻 Blog: https://genbyte.blogspot.com/
 
-🐦Twitter: https://twitter.com/bilal_jebari
+🐦Twitter (X): https://twitter.com/bilal_jebari
 
 
 ☕ https://ko-fi.com/genbyte
