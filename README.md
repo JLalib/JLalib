@@ -1,31 +1,53 @@
-### Hi there 👋
-How's it going?. My name is Bilal, I'm from Spain.
+# 👋 ¡Hola! Soy Genbyte, pero me puedes llamar Bili ;)
 
-🌱 I’m currently learning everything.
+¡Bienvenid@ a mi rincón digital!
 
-:vhs: https://www.youtube.com/@genbyte
+Aquí comparto mis pasiones por la tecnología, el código y la creatividad. Prepárate para explorar mis proyectos y conectar conmigo. 🚀
 
-💬 bilaljebari@proton.me
+---
 
-💻 Blog: https://genbyte.blogspot.com/
+## 🌐 Encuéntrame en línea
 
-🐦Twitter (X): https://twitter.com/bilal_jebari
+### 🎥 **Contenido en Vídeo**
+- <a href="https://www.youtube.com/@genbyte" target="_blank">YouTube: Genbyte</a>  
 
+### 💌 **Conecta conmigo**
+- [genbyte@proton.me](mailto:genbyte@proton.me)
 
-☕ https://ko-fi.com/genbyte
+### 📝 **Explora mis ideas**
+- <a href="https://genbyte.blogspot.com/" target="_blank">Blog: Genbyte Blog</a>  
 
-<!--
-**JLalib/JLalib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐦 **Sigue mis tweets**
+- <a href="https://twitter.com/gen_byte" target="_blank">Twitter (X): @gen_byte</a>  
 
-Here are some ideas to get you started:
+### ☕ **Invítame un café**
+- <a href="https://ko-fi.com/genbyte" target="_blank">Ko-fi: genbyte</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 💻 Un poco sobre mí
+Soy un apasionado de la tecnología y el aprendizaje continuo. Mi enfoque está en:
+
+- Administración de sistemas Windows y Linux 🖥️
+- Virtualización con VMware y Proxmox 🖧
+- Contenedores y orquestación con Docker 🐳
+- Redes, incluyendo configuraciones VPN 🌐
+- Automatización y productividad ⚙️
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Genbyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlalib&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🛠️ Próximamente...
+
+Mantente al tanto, ¡los mejores proyectos están por venir! 🎉
+
+---
+
+¿Tienes alguna pregunta, propuesta o idea? ¡Hablemos y creemos algo increíble juntos! 🌟
